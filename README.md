@@ -36,6 +36,11 @@ There’s more optimisations included, so you don’t have to think about them: 
 
 [Issues](https://github.com/kennethormandy/normalize-opentype.css/issues)
 
+## Related Projects
+
+[Original normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css)
+[Utility OpenType](https://github.com/kennethormandy/utility-opentype)
+
 ## License
 
 [The MIT License (MIT)](LICENSE.md)
