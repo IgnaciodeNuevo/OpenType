@@ -2,8 +2,6 @@
 
 Adds OpenType features—ligatures, kerning, and more—to [Normalize.css](https://github.com/necolas/normalize.css).
 
-**Note** You might also like my more recent take on this project, [Utility OpenType](https://github.com/kennethormandy/utility-opentype): CSS utility classes for advanced typographic features.
-
 ## Ligatures
 
 First, normalize basic ligatures across browsers, and then get fancier, discretionary ligatures on `<h1>`, `<h2>`, and `<h3>`s.
