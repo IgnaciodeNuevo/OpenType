@@ -38,8 +38,8 @@ There’s more optimisations included, so you don’t have to think about them: 
 
 ## Related Projects
 
-[Original normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css)
-[Utility OpenType](https://github.com/kennethormandy/utility-opentype)
+- [Original normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css)
+- [Utility OpenType](https://github.com/kennethormandy/utility-opentype)
 
 ## License
 
